@@ -8,5 +8,5 @@ for i in text_list:
         if k[0] in main_dict: main_dict[k[0]] += int(k[1])/2
         else: main_dict[k[0]] = int(k[1])
     except:print("Fix - " + str(k))
-ranker = dict(Counter(main_dict).most_common(5))
+ranker = dict(Counter(main_dict).most_common(10))
 print(ranker)

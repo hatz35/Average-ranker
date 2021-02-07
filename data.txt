@@ -1,62 +1,35 @@
-[Sm]
-Fonthers - 3
-Rose - 2
-Hunter - 3
-Rhys - 1
-Jack - 1
-Marc - 1
-Skylark - 1
+[1]
+A - 3
+C - 2
+D - 3
+B - 1
+A - 1
+C - 1
+B - 1
 
-[Ar]
-Rose - 2
-Aoran - 1
-Marc - 1
-Morgan - 1
-Rhys - 1
-Dephanae - 1
-Drago - 1
+[2]
+D - 2
+B - 1
+C - 1
+C - 1
+D - 1
+B - 1
+D - 1
 
-[Ch]
-An-Xian - 2
-Geseleen - 1
-Selome - 2
-Rose - 1
-Sakura - 2
-Dephanae - 2
-Amaya - 1
+[2]
+A - 2
+A - 1
+K - 2
+J - 1
+L - 2
+F - 2
+N - 1
 
-[Sk]
-Fonthers - 1
-Orome - 1
-Yuriph - 2
-Pako - 3
-Seron - 2
-Rose - 3
-Hector - 3
-
-[Or]
-Skylark - 1
-Selome - 1
-Rose - 3
-Dephanae - 3
-An-Xian - 1
-April - 1
-Arcana - 1
-
-[Kay]
-Jack - 1
-Ezekiel - 2
-Morgan - 1
-Heku - 2
-An-Xian - 1
-Aoran - 1
-San - 1
-
-[Ez]
-Geseleen - 2
-Rose - 2
-Kayleigh - 2
-An-Xian - 2
-Kaye - 3
-Lloya - 3
-Fonthers - 2
+[4]
+M - 1
+O - 1
+K - 2
+J - 3
+F - 2
+S - 3
+A - 3
